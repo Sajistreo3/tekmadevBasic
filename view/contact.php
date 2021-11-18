@@ -21,7 +21,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <a href="mailto:ceretmaster@gmail.com">caretmaster@gmail.com</a>
+              <a href="mailto:ceretmaster@gmail.com">info@swayit.ca</a>
             </div>
           </div>
 
@@ -29,7 +29,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Call Us</h3>
-              <a href="tel:4387285533">+1 (438) 728 5533</a>
+              <a href="tel:4386008084">+1 (438) 600 8084</a>
             </div>
           </div>
 

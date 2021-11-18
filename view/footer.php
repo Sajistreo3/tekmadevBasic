@@ -9,7 +9,7 @@
               <h3>Sway IT</h3>
               <p>
                 Montreal, QC Canada<br><br>
-                <strong>Phone:</strong> +1 438 728 5533<br>
+                <strong>Phone:</strong> +1 438 600 8084<br>
                 <strong>Email:</strong> info@swayit.ca<br>
               </p>
               <div class="social-links mt-3">
