@@ -64,13 +64,13 @@
             <div class="member">
               <img src="assets/img/teamPic/jimmy2.png" alt="mark">
               <h4>Jimmy Pham</h4>
-              <span>Team HR</span>
+              <span>Team Researcher</span>
               <p>
                 Information is everywhere and we just have to find the ones we need.
               </p>
               <div class="social">
-                <!-- <a target="_blank" href=""><i class="bi bi-twitter" ></i></a> -->
-                <a target="_blank" href="https://www.facebook.com/Vlascort13"><i class="bi bi-facebook" ></i></a>
+                <a target="_blank" href=""><i class="bi bi-twitter" ></i></a>
+                <!-- <a target="_blank" href="https://www.facebook.com/Vlascort13"><i class="bi bi-facebook" ></i></a> -->
                 <!-- <a target="_blank" href="https://www.instagram.com/mark_andrade_salazar/"><i class="bi bi-instagram" ></i></a> -->
                 <a target="_blank" href="https://www.linkedin.com/in/jimmy-pham-b70347187/"><i class="bi bi-linkedin" ></i></a>
               </div>
