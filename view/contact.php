@@ -21,7 +21,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <a href="mailto:ceretmaster@gmail.com">info@swayit.ca</a>
+              <a href="mailto:ceretmaster@gmail.com">info@tekmadev.com</a>
             </div>
           </div>
 

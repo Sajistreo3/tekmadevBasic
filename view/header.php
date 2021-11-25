@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Sway IT</title>
+  <title>Tekmadev</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -54,7 +54,7 @@ s0.parentNode.insertBefore(s1,s0);
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">info@swayit.ca</a>
+        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">info@tekmadev.com</a>
         <i class="bi bi-phone-fill phone-icon"></i><a href="tel:4386008084">+1 (438) 600 8084</a>
       </div>
       <div class="social-links d-none d-md-block">
@@ -70,9 +70,9 @@ s0.parentNode.insertBefore(s1,s0);
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <!-- <h1 class="logo"><a href="index.php"><img src="assets/img/sway-logo/swayit_logo-white.png" alt="logo"></a></h1> -->
+      <h1 class="logo"><a href="index.php">Tekmadev</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.php" class="logo"><img src="assets/img/sway-logo/swayit_logo-white.png" alt="Logo" class="img-fluid"></a>
+      <!-- <a href="index.php" class="logo"><img src="assets/img/sway-logo/swayit_logo-white.png" alt="Logo" class="img-fluid"></a> -->
 
       <nav id="navbar" class="navbar">
         <ul>

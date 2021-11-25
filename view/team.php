@@ -30,7 +30,7 @@
             <div class="member">
               <img src="assets/img/teamPic/moslem.png" alt="Moslem">
               <h4>Moslem Attapour</h4>
-              <span>Team Project Manager</span>
+              <span>Team Marketing Manager</span>
               <p>
                 Your job is to discover the world and then with all your heart give yourself to it
               </p>

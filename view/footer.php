@@ -6,11 +6,11 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="footer-info">
-              <h3>Sway IT</h3>
+              <h3>Tekmadev</h3>
               <p>
                 Montreal, QC Canada<br><br>
                 <strong>Phone:</strong> +1 438 600 8084<br>
-                <strong>Email:</strong> info@swayit.ca<br>
+                <strong>Email:</strong> info@tekmadev.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -59,7 +59,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Sway IT</span></strong> 2021. All Rights Reserved
+        &copy; Copyright <strong><span>Tekmadev</span></strong> 2021. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
