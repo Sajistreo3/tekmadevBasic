@@ -1069,6 +1069,24 @@ section {
   }
 }
 
+
+.text-center {
+  margin-top: 5px;
+}
+
+.text-center input[type='submit'] {
+  padding: 10px;
+  background: #cc1616;
+  transition: all 0.4s;
+  color: #fff;
+}
+
+.text-center input[type='submit']:hover {
+  background: #e72323;
+  color: #000;
+}
+
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/

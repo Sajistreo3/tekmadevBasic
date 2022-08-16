@@ -54,13 +54,13 @@ s0.parentNode.insertBefore(s1,s0);
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">info@tekmadev.com</a>
-        <i class="bi bi-phone-fill phone-icon"></i><a href="tel:4386008084">+1 (438) 600 8084</a>
+        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">tekmadev@gmail.com</a>
+        <!-- <i class="bi bi-phone-fill phone-icon"></i><a href="tel:4386008084">+1 (438) 600 8084</a> -->
       </div>
       <div class="social-links d-none d-md-block">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <!-- <a href="#" class="twitter"><i class="bi bi-twitter"></i></a> -->
+        <!-- <a href="#" class="facebook"><i class="bi bi-facebook"></i></a> -->
+        <!-- <a href="#" class="instagram"><i class="bi bi-instagram"></i></a> -->
         <a target="_blank" href="https://www.linkedin.com/company/swayitinc/" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
       </div>
     </div>
@@ -79,8 +79,8 @@ s0.parentNode.insertBefore(s1,s0);
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+          <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
+          <!-- <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li> -->
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>

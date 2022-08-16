@@ -9,8 +9,8 @@
               <h3>Tekmadev</h3>
               <p>
                 Montreal, QC Canada<br><br>
-                <strong>Phone:</strong> +1 438 600 8084<br>
-                <strong>Email:</strong> info@tekmadev.com<br>
+                <!-- <strong>Phone:</strong> +1 438 600 8084<br> -->
+                <strong>Email:</strong> tekmadev@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -66,7 +66,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/day-multipurpose-html-template-for-free/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
       </div>
     </div>
   </footer><!-- End Footer -->
